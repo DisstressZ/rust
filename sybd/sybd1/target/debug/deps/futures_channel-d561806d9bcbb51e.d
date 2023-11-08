@@ -1,0 +1,10 @@
+C:\Users\User\laba1\sybd\sybd1\target\debug\deps\futures_channel-d561806d9bcbb51e.rmeta: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs
+
+C:\Users\User\laba1\sybd\sybd1\target\debug\deps\futures_channel-d561806d9bcbb51e.d: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs
+
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs:
